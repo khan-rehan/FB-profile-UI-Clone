@@ -1,7 +1,5 @@
 # FB-profile-Clone
 
-A one-to-one chat app built on Flutter with firebase authentication.
-
 For help getting started with Flutter, view the online [documentation](https://flutter.dev).
 
 You can check out the corresponding Google code lab [here](https://codelabs.developers.google.com/codelabs/flutter/index.html?index=..%2F..%2Findex#0).
@@ -13,7 +11,7 @@ You can check out the corresponding Google code lab [here](https://codelabs.deve
 
 # Getting Started
 
-**Note:** Make sure your Flutter environment is setup & if not install then [Click here to install](https://flutter.dev/docs/get-started/install)
+**Note:** Make sure your Flutter environment is setup & if not installed then [Click here to install](https://flutter.dev/docs/get-started/install)
 
 **Installation**
 
