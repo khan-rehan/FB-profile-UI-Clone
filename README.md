@@ -1,55 +1,30 @@
-# FB-profile-Clone
+# Facebook Profile UI Clone
 
-For help getting started with Flutter, view the online [documentation](https://flutter.dev).
+A Flutter recreation of the Facebook profile page UI, featuring a profile header with cover photo, profile picture, user info, action buttons (Add Friend, Follow, Message), and a photo gallery grid.
 
-You can check out the corresponding Google code lab [here](https://codelabs.developers.google.com/codelabs/flutter/index.html?index=..%2F..%2Findex#0).
+## Features
 
----
-`📸 Screenshot` 
+- Cover photo with overlapping profile picture
+- User name and bio display
+- Action buttons row (Add Friend, Follow, Message, More)
+- Photo gallery grid layout
+- Scrollable profile layout
 
-<img width="447" alt="Screenshot 2019-08-25 at 5 36 15 PM" src="https://user-images.githubusercontent.com/42263217/63649836-6b26bf00-c760-11e9-8149-3263fbdf76e3.png">
+## Tech Stack
 
-# Getting Started
+- **Framework:** Flutter
+- **Language:** Dart
 
-**Note:** Make sure your Flutter environment is setup & if not installed then [Click here to install](https://flutter.dev/docs/get-started/install)
+## Getting Started
 
-**Installation**
+**Prerequisites:** [Flutter SDK](https://flutter.dev/docs/get-started/install)
 
-In the command terminal, run the following commands:
-
-```
-$ git clone https://github.com/khan-rehan/FB-profile-UI-Clone.git
-
-$ cd FB-profile-UI-Clone/
-
-$ flutter run
-```
-
-# Simulate for iOS
-
-## Method One
-
-```
-Open the project in Xcode from ios/Runner.xcodeproj.
-Hit the play button.
+```sh
+git clone https://github.com/khan-rehan/FB-profile-UI-Clone.git
+cd FB-profile-UI-Clone
+flutter run
 ```
 
-## Method Two
+## Screenshot
 
-```
-Run the following command in your terminal.
-$ open -a Simulator
-$ flutter run
-```
-
-# Simulate for Android
-
-```
-Make sure you have an Android emulator installed and running.
-Run the following command in your terminal.
-$ flutter run
-```
-
-
-
-
+<img width="447" alt="FB Profile Clone" src="https://user-images.githubusercontent.com/42263217/63649836-6b26bf00-c760-11e9-8149-3263fbdf76e3.png">
